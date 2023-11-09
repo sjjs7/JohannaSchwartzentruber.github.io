@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://sjjs7.github.io/JohannaSchwartzentruber.github.io//sitemap.xml
